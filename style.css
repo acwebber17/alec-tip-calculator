@@ -31,7 +31,7 @@ label, input {
 @media(min-width: 700px) {
     body {
         width: 60%;
-        background: url(alec.jpg) no-repeat center center fixed;
+        background: url(fam.jpg) no-repeat center center fixed;
         background-size: cover;
         margin-top: 20px;
         margin-bottom: 5px;
